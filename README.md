@@ -1,8 +1,25 @@
-# DON PALADAR
+# Don Paladar
 
-## Realizado con React
+## Proyecto freelance
 
-### Podés verlo:
+### Realizado con:
 
-- npm install, npm start
-- https://youtu.be/f85gzKk4rv4 
+- CSS
+- ReactJs
+
+### Descripción
+* Se trata de un sitio oficial para una banda de rock
+
+### https://youtu.be/f85gzKk4rv4 
+
+## INICIO
+<img src = "./home.png" >
+
+## VIDEOS
+<img src = "./videos.png" >
+
+## MÚSICOS
+<img src = "./musicos.png" >
+
+## MOBILE
+<img src = "./responsive.png" >
