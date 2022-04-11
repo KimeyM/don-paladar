@@ -1,0 +1,28 @@
+.pagination_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font-size: 1px;
+  margin: 10px 0px 0px 0px;
+}
+.pagination_container div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #303841;
+  height: 1px;
+  width: 30px;
+  text-decoration: none;
+  transition: background-color 0.2s;
+  border: 1px solid #000;
+  border-radius: 50px;
+  cursor: pointer;
+  padding: 3px 5px 3px 5px;
+  margin: 2px;
+  background-color: #000;
+}
+.pagination_container div.active {
+  background-color: #fff;
+  border: 1px solid #fff;
+}

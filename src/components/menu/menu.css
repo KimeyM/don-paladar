@@ -1,0 +1,25 @@
+.menuu {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgba(0, 0, 0, 0.62);
+}
+.menuu ol {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+.menuu ol li {
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.menuu ol li a {
+  text-decoration: none;
+  color: #fff;
+}
+.menuu a:hover {
+  text-shadow: 5px 5px 5px rgba(0, 0, 0);
+}
+.menuu li:hover {
+  transform: translate(1px, 1%);
+}
