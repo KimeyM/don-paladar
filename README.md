@@ -11,7 +11,7 @@
 * Se trata de un sitio oficial para una banda de rock
 
 ### Mirá mi proyecto [aquí].
-[aquí]: https://youtu.be/f85gzKk4rv4
+[aquí]: https://don-paladar.vercel.app/
 
 ## INICIO
 <img src = "./home.png" >
