@@ -10,7 +10,8 @@
 ### Descripción
 * Se trata de un sitio oficial para una banda de rock
 
-### https://youtu.be/f85gzKk4rv4 
+### Mirá mi proyecto [aquí].
+[aquí]: https://youtu.be/f85gzKk4rv4
 
 ## INICIO
 <img src = "./home.png" >
